@@ -1,4 +1,4 @@
-# SDEV2401 Workbook – Winter 2026 (A03)
+# SDEV2401 – Winter 2026 (A03)
 
 This repository contains:
 - Lecture slides
